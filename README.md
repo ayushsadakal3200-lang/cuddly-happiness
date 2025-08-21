@@ -1,3 +1,3 @@
 # cuddly-happiness
-This is my first git repositary
+This is my first Git Repositary.
 Author- Ayush S Sadakal
